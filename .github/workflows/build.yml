@@ -1,0 +1,39 @@
+name: Build
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Set up Nix
+      uses: JRMurr/direnv-nix-action@v4.2.0
+
+    - name: Set up Packwiz cache
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/packwiz/cache/
+        key: ${{ runner.os }}-packwiz-store
+        restore-keys: ${{ runner.os }}-packwiz-store
+
+    - name: Get pack version
+      id: version
+      run: |
+        echo "VERSION=$(cat pack.toml | grep "version =" | sed 's/version = "\(.*\)"/\1/')" >> $GITHUB_OUTPUT
+
+    - name: Build Modrinth pack
+      run: |
+        mkdir build
+        packwiz modrinth export --output build/M.A.E.S.T.R.O.-${{ steps.version.outputs.VERSION }}.mrpack
+
+    - name: Upload Modrinth pack
+      uses: actions/upload-artifact@v4
+      with:
+        name: Modrinth Pack
+        path: build/M.A.E.S.T.R.O.-*.mrpack
+        compression-level: 0

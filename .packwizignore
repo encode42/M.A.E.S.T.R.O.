@@ -1,0 +1,19 @@
+# GitHub
+/.github
+/license.md
+/readme.md
+
+# Misc
+/.idea/
+/.vscode/
+/util
+
+# Packwiz files
+/*.mrpack
+/build/
+
+# NixOS files
+/.direnv/
+/flake.nix
+/flake.lock
+/.envrc

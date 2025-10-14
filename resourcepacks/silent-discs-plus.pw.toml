@@ -1,0 +1,13 @@
+name = "Silent Discs Plus"
+filename = "Silent_Discs_Plus_v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lpPlDKQa/versions/LfegrOBh/Silent_Discs_Plus_v1.0.zip"
+hash-format = "sha512"
+hash = "03ce72f6dd60efc25d6975bf11081dd82a215b4cbc7eca0c66a920813d2206584aae18120653b0864f77a73172f55c2e8c61faf70a295a83f40c7b1bee13fc85"
+
+[update]
+[update.modrinth]
+mod-id = "lpPlDKQa"
+version = "LfegrOBh"

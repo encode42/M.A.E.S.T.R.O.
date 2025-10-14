@@ -1,0 +1,281 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/MiniMOTD/main.conf"
+hash = "23c8e7d99167ad391841a51f23ca878c96217f3e5758364a8455aaf204ccd591"
+
+[[files]]
+file = "config/MiniMOTD/plugin_settings.conf"
+hash = "06c4e746b28525d02a78c836b633ca9b16434b68d53c3fb6fc4af64132334c11"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "27cdcd366e6a4e9adc1c84d8fc969f4760e4555de06d2ccd23369bcf4134d609"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "7ae6e765de792c537709f8987b08ea0614c54af7df9c453c24fad79416c7420d"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "0c8061bb4ffd018cdee1079ef31710355eb0d7e072fb2da500076a6b8d7f3a7b"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "9241dc5cd6caf6ddffe53a6520867c367d5cde07b5051cd198d7607de5eccb83"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "dc9a122de93c82269fed2fc831996b4b63f98a60aebb74ba198a2b25b22b1913"
+
+[[files]]
+file = "config/moonrise.yml"
+hash = "8366e8d4fa7952e0abcf0a0871c06f0b562725b912e0d3537fc37906392a2329"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "3ec60556af747b281d5f9b34b8333c3e0ea32856406532971d7126edeb2f814b"
+
+[[files]]
+file = "config/preferred-gamerules.properties"
+hash = "7efeabb366c9d0bef2054b755d8ef063d24941da5947cafd7b7b32a55fef599a"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "43186c424bc7943cf321d3b487dfbb93aacbd3d8168b8ad85cb6b172f54c79d5"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "3b1101e8fc321f1b6587d8f0e801e09604f66afb848353f2f65b604275fb9168"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "77d24fa68f21ee81998368bfb5c7afffaa206918f7da38751d6f72251335472c"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fa80695a0289788c809bb9125c2b239370a05d6df76a08167a72b558d9daaa00"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
+metafile = true
+
+[[files]]
+file = "mods/clientsidenoteblocks.pw.toml"
+hash = "91412e14b30bbf40f9097e4cb6977464b7d0a053b1633e79acda1c3ba43ee74a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "c1396c86bc85ccdcb9b5e0d7e5aec00d7f4d0e73b246fb9c92672b4e7aab17ba"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "f32210ca4e216dc112a27bb032f4da75fba87b7f4d75ce6e246a0e29c1eaea5f"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "4cd88e9bc186b6a2136cd59690c27a8600b25f60bf2b86d429bd11a3576305ea"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "9a86f61fc86604d977b2aee4a2d20fd264d635060184be5183d8e7674e4fb912"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "29356630f876f99fa7c48a2d00e4ca4b41963719b94dbbbaa694f72ae07e5bc0"
+metafile = true
+
+[[files]]
+file = "mods/minimotd.pw.toml"
+hash = "14a079d2f5839b116e718abec0a7a8f75092b8b122fc38ccf90fff60eb834e25"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "d4ed530a3a278079be0024a2c7d6309c1f577c2a0d97922fc9e7af52b9bf01a9"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "4ed5bf9e808739ddeec2692fbd7c16b3df653f1b2823de3f07e5dced1c5fc439"
+metafile = true
+
+[[files]]
+file = "mods/preferred-gamerules.pw.toml"
+hash = "8ba354cd42f24b7662f0eff660f5d013471b767c8e994e905b96cca8698fb3a5"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
+file = "mods/skip-transitions.pw.toml"
+hash = "416798b40a1c943664a194836958ad476e35b138769d649b3bf01a0becb400a8"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "b182456aefe4b8f37cc3dd34fdccbd07fcd0a2e9a6c175d5e39cd6d5190388dc"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "780646258386fccb6c92851e13dfb32b5d85cae9596ce6c829894b179245e64c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "4ae7284d8db06843377576a1bd3f61fb6b52de2a8c17bf28a6194f7f9fd538f7"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "be79340e0be7c42fbbbd66cf6c2983ad8218ea5271095a1f10ec3686dd14c2ca"
+
+[[files]]
+file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "b180635656558ceaa7b4284b64491bd3a402a133e9c7f25cec09be99ed17ea23"
+
+[[files]]
+file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "c7e91db4936ae66a85b80144fd9679024c79b3aa08005de36cc1e5729d1efe4d"
+
+[[files]]
+file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "f7a48466237328579643253ab58cd1160ca795b88338c2767ace4769866221d4"
+
+[[files]]
+file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "6b3d9cfa6292f21a0ef7b96de3b9944e88801ea9fdf0410a852bfcf77e780fe6"
+
+[[files]]
+file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "87f5e5288e57f4c9e88ae5ead4aa5022de21322f1a6179b9d3dc61668d1b4632"
+
+[[files]]
+file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "fd4e5c940747e8281280e6f3483606fbf6fb9195800e8eccd185a9a2dfd518bc"
+
+[[files]]
+file = "resourcepacks/M.A.E.S.T.R.O./pack.mcmeta"
+hash = "16596a642d812332612f714657577d3e29a0d8a6491477a7aac1dec910492c91"
+
+[[files]]
+file = "resourcepacks/M.A.E.S.T.R.O./pack.png"
+hash = "e4f06ac40ff4a311b88bfed9ff1025aff643c830a1b89776367e85dca253e3d7"
+
+[[files]]
+file = "resourcepacks/silent-discs-plus.pw.toml"
+hash = "c3f721054c06dcda3ffd986ef5933b3fbac2ac59a4bf2de894098ce7beb6fb64"
+metafile = true
+
+[[files]]
+file = "saves/M.A.E.S.T.R.O./entities/r.-1.-1.mca"
+hash = "cb273db4e86c7b4c490a0299d95ddbcacf55e96be7119d4a4d39ac2aa5e1fe15"
+
+[[files]]
+file = "saves/M.A.E.S.T.R.O./entities/r.-1.0.mca"
+hash = "e20f304ea8cecd596ac9bc5edc17a19fb01c46bc012dfb836649a9a79239341f"
+
+[[files]]
+file = "saves/M.A.E.S.T.R.O./entities/r.0.-1.mca"
+hash = "f691fd273024e743e7439f94032fc4260b83a293f30e7bb638c667542e81dc86"
+
+[[files]]
+file = "saves/M.A.E.S.T.R.O./entities/r.0.0.mca"
+hash = "c7272a473a8ae1421cfffc9495457f17716a2c640d58a70a2228ab9116b13bf0"
+
+[[files]]
+file = "saves/M.A.E.S.T.R.O./icon.png"
+hash = "e4f06ac40ff4a311b88bfed9ff1025aff643c830a1b89776367e85dca253e3d7"
+
+[[files]]
+file = "saves/M.A.E.S.T.R.O./level.dat"
+hash = "bb46c831df5acf9ad9a51cb823c153b3e3bd1c0a13e141d48e365b8b1eef6396"
+
+[[files]]
+file = "saves/M.A.E.S.T.R.O./region/r.-1.-1.mca"
+hash = "9e0151395001864f4ae7a7dae9e816b692913b3fad290863d8a0607a9a8b88c8"
+
+[[files]]
+file = "saves/M.A.E.S.T.R.O./region/r.-1.0.mca"
+hash = "7454c52916491235deb38bd005dc35882e64a642e91691084616497e7527b303"
+
+[[files]]
+file = "saves/M.A.E.S.T.R.O./region/r.0.-1.mca"
+hash = "42b2ca008e8feb4ebf180ed9aea228f74f96e81b07f7db05bfc3f2acb629b25e"
+
+[[files]]
+file = "saves/M.A.E.S.T.R.O./region/r.0.0.mca"
+hash = "094cdf97bfa27274665f19aa1845fe18253422e4605d141a1f1702425b256f38"
+
+[[files]]
+file = "server-icon.png"
+hash = "fba91169e1502ad8a4c3298c0f97e169848ab52ff4a1978c4f6fa1e383f721f2"
+
+[[files]]
+file = "server.properties"
+hash = "fb75a26d029c53fe54f693a5d20ea20bd42c419f684577a3b2dacdae88bd564a"
+
+[[files]]
+file = "servers.dat"
+hash = "a51aac2deebc1e774a206896ab5d521bcee1808626ae57f7aa065e937c0e952b"
