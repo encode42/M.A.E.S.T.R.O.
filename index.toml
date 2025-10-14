@@ -193,27 +193,27 @@ hash = "be79340e0be7c42fbbbd66cf6c2983ad8218ea5271095a1f10ec3686dd14c2ca"
 
 [[files]]
 file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "b180635656558ceaa7b4284b64491bd3a402a133e9c7f25cec09be99ed17ea23"
+hash = "c51587b267883570e7e1b9c56eb3f766342ae6c662f911d41a26d2654ddfd9c1"
 
 [[files]]
 file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "c7e91db4936ae66a85b80144fd9679024c79b3aa08005de36cc1e5729d1efe4d"
+hash = "8afff8f44b3cf2272b7ea5c2148ebe39e1706bdaf018e62e33cddbb9e6f3732a"
 
 [[files]]
 file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "f7a48466237328579643253ab58cd1160ca795b88338c2767ace4769866221d4"
+hash = "4c1aa94f2c93637027689f36e566782343ed6df7e1db02318d4193395a9de305"
 
 [[files]]
 file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "6b3d9cfa6292f21a0ef7b96de3b9944e88801ea9fdf0410a852bfcf77e780fe6"
+hash = "bd5394989771df4256c33dcd467e2f30968f72832ddd9f808f3e2ab881a97ee2"
 
 [[files]]
 file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "87f5e5288e57f4c9e88ae5ead4aa5022de21322f1a6179b9d3dc61668d1b4632"
+hash = "35ea652294c8ad752eee078340921a876b4843d92937d6870d8bdeee0a2cb37d"
 
 [[files]]
 file = "resourcepacks/M.A.E.S.T.R.O./assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "fd4e5c940747e8281280e6f3483606fbf6fb9195800e8eccd185a9a2dfd518bc"
+hash = "69481befeeb6d8f357c3cf040a6114d8084136547c63bd861478e08c6e221b15"
 
 [[files]]
 file = "resourcepacks/M.A.E.S.T.R.O./pack.mcmeta"
@@ -221,7 +221,7 @@ hash = "16596a642d812332612f714657577d3e29a0d8a6491477a7aac1dec910492c91"
 
 [[files]]
 file = "resourcepacks/M.A.E.S.T.R.O./pack.png"
-hash = "e4f06ac40ff4a311b88bfed9ff1025aff643c830a1b89776367e85dca253e3d7"
+hash = "5f98c835a2f7599dc6264a241112b507d06fab3bd5a896e24d8ca1973130199a"
 
 [[files]]
 file = "resourcepacks/silent-discs-plus.pw.toml"
@@ -246,7 +246,7 @@ hash = "c7272a473a8ae1421cfffc9495457f17716a2c640d58a70a2228ab9116b13bf0"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./icon.png"
-hash = "e4f06ac40ff4a311b88bfed9ff1025aff643c830a1b89776367e85dca253e3d7"
+hash = "5f98c835a2f7599dc6264a241112b507d06fab3bd5a896e24d8ca1973130199a"
 
 [[files]]
 file = "saves/M.A.E.S.T.R.O./level.dat"
@@ -270,7 +270,7 @@ hash = "094cdf97bfa27274665f19aa1845fe18253422e4605d141a1f1702425b256f38"
 
 [[files]]
 file = "server-icon.png"
-hash = "fba91169e1502ad8a4c3298c0f97e169848ab52ff4a1978c4f6fa1e383f721f2"
+hash = "7a587e8cfc286a613c37394ecee05a56964b65c04762cba5675ae2e7135085aa"
 
 [[files]]
 file = "server.properties"
