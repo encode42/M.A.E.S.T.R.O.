@@ -1,12 +1,12 @@
 name = "M.A.E.S.T.R.O."
 author = "encode42"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "aa1a6c0c5003d3d1a80bcf3e82a6489afb6f84cfbac86c17b89de47243f938de"
+hash = "ca40c0d1b6f4dfe43f73b7f9d4b0938ce8da86e0e5e58ce622159e1bb0546308"
 
 [versions]
 fabric = "0.17.3"
