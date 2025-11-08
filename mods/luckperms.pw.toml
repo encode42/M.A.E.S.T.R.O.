@@ -1,0 +1,13 @@
+name = "LuckPerms"
+filename = "LuckPerms-Fabric-5.5.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vebnzrzj/versions/uStOaYyZ/LuckPerms-Fabric-5.5.10.jar"
+hash-format = "sha512"
+hash = "8985ee7fd0e1033022292e05cb7ad503ae82908bfacb92c269eb4e3895947a512c4e769e7110785ca55f14d4af04124c762515dbd2508bcd08fc7a107cbcc023"
+
+[update]
+[update.modrinth]
+mod-id = "Vebnzrzj"
+version = "uStOaYyZ"

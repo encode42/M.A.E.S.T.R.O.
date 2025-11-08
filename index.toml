@@ -61,6 +61,10 @@ file = "config/sodium-options.json"
 hash = "77d24fa68f21ee81998368bfb5c7afffaa206918f7da38751d6f72251335472c"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "1ab24276154b972b8c8db971d5f4e1be40f9101829e29fada44a83dc37568430"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fa80695a0289788c809bb9125c2b239370a05d6df76a08167a72b558d9daaa00"
 metafile = true
@@ -150,6 +154,15 @@ hash = "29356630f876f99fa7c48a2d00e4ca4b41963719b94dbbbaa694f72ae07e5bc0"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "5e7d7f0551f95f2f496098b0eb9f3ed4d5942ce981f4eb9e1f80c1a83ef19058"
+metafile = true
+
+[[files]]
+file = "mods/luckperms/luckperms-h2-v2.mv.db"
+hash = "8a5da9497b99c3570c75c9732ee5c4e4d3cf919e208f35b6eb0387962926268f"
+
+[[files]]
 file = "mods/minimotd.pw.toml"
 hash = "14a079d2f5839b116e718abec0a7a8f75092b8b122fc38ccf90fff60eb834e25"
 metafile = true
@@ -217,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "178eddcd5be91766f872bc7e3bdbe4f5e3774921b5f46cb704436d88c667be54"
 metafile = true
 
 [[files]]
@@ -410,7 +428,7 @@ hash = "7a587e8cfc286a613c37394ecee05a56964b65c04762cba5675ae2e7135085aa"
 
 [[files]]
 file = "server.properties"
-hash = "e0919c1bd9054b4597559dde4dd91a6601ed8e74a54e2d24740d277322c5ff50"
+hash = "176e38182ae5455a764689bdbd42f9900a6f4d6b25f3abb9843243f6278672ca"
 
 [[files]]
 file = "servers.dat"
