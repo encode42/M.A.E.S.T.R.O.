@@ -45,10 +45,6 @@ file = "config/one-click-join"
 hash = "84a2571389dc3fd03d7cd660d812c44500b7df165b05a92827264c66863bc404"
 
 [[files]]
-file = "config/preferred-gamerules.properties"
-hash = "7efeabb366c9d0bef2054b755d8ef063d24941da5947cafd7b7b32a55fef599a"
-
-[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "43186c424bc7943cf321d3b487dfbb93aacbd3d8168b8ad85cb6b172f54c79d5"
 
@@ -61,12 +57,16 @@ file = "config/sodium-options.json"
 hash = "77d24fa68f21ee81998368bfb5c7afffaa206918f7da38751d6f72251335472c"
 
 [[files]]
+file = "config/voicechat-client.properties"
+hash = "8d494ec4772139acabcfb4a7589294ebdd0e1a8a608a613a07338852b23b05f7"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "1ab24276154b972b8c8db971d5f4e1be40f9101829e29fada44a83dc37568430"
 
 [[files]]
 file = "config/worldedit/schematics/Allqns - Ochame Kinou.schem"
-hash = "e8a2c29ac679317044078cb9ef24aed6b51ba628b32adde8630414a76c4e07ac"
+hash = "adf8089727b4276071e98c1cfc57387796115d60eaccd1dc4af65996c7cef287"
 
 [[files]]
 file = "config/worldedit/schematics/Askalotl - Dark Sanctuary.schem"
@@ -82,7 +82,7 @@ hash = "187e708f33fe6dc4fca6817104064e5c6e63feb24fc5005d5b7f6d7dced4b189"
 
 [[files]]
 file = "config/worldedit/schematics/Bentroen - Sweden - Tropical Mix.schem"
-hash = "08ede607595d6bf5a573ffe58e2c2cbee531e7af48f4be9a8019827140297102"
+hash = "87047d4bd6d41cc2de0b4ef208a4d9351ca1cff9c3809c1270f6a446c2c6a817"
 
 [[files]]
 file = "config/worldedit/schematics/Bizzo713 - The Outer Reaches of Space.schem"
@@ -90,7 +90,7 @@ hash = "fc7fbada629f7a23d048590e2ac7c879b8b55cd01473dc947df6e223228bb11c"
 
 [[files]]
 file = "config/worldedit/schematics/CubixL - title [SPC700].schem"
-hash = "428ce36f3fb05dce9d133019b9dcc80f26f50b463ee5eb7c418c3c90c299cd0e"
+hash = "93fc11c50b888f7c3522522227e0dd5d54884d8f2167449e8be3e1827fab3c11"
 
 [[files]]
 file = "config/worldedit/schematics/Daitsuki - Aura.schem"
@@ -162,7 +162,7 @@ hash = "8a40deaca62b9aa6a831f3988c7f334c879fbfddd6310bf1468a023716e30649"
 
 [[files]]
 file = "config/worldedit/schematics/VulkanRafar - DARLING DANCE.schem"
-hash = "6bf6da927517e7082b4f1079f8558382b2267d33b8e35299d733e1278f4c2a70"
+hash = "85bed919144f1e01462ae3a434640fcc8f7088c4397b35b701345139b688993b"
 
 [[files]]
 file = "config/worldedit/schematics/control467 - in pieces.schem"
@@ -170,7 +170,7 @@ hash = "f2efd1cc7d786290b0670af058262ce339d8642701a6866fc3a45a4e06052f73"
 
 [[files]]
 file = "config/worldedit/schematics/encode42 - The Third Sanctuary.schem"
-hash = "bbfb6c54127cd7267cbd35c039bef0b3b694ebd362a8751f4ae7f9ab699f30e0"
+hash = "e109fd06e8c67dfc3a21c0c731deb0bed7fe827aa5791c1b27375227a65154a4"
 
 [[files]]
 file = "config/worldedit/schematics/flyingdean699 - Stay.schem"
@@ -213,8 +213,8 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
-file = "mods/conductor-1.1.0.jar"
-hash = "0d12ee13ac5a2151d9edf60bc07c4624af4fd24dcf11b5b643a4681c52d5139b"
+file = "mods/conductor-1.2.0.jar"
+hash = "e9f4c86bf12936a14b6e940cef49f8c9d737d7b51b121ce7cc4dd181ab13f345"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -318,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "4ed5bf9e808739ddeec2692fbd7c16b3df653f1b2823de3f07e5dced1c5fc439"
-metafile = true
-
-[[files]]
-file = "mods/preferred-gamerules.pw.toml"
-hash = "8ba354cd42f24b7662f0eff660f5d013471b767c8e994e905b96cca8698fb3a5"
 metafile = true
 
 [[files]]
