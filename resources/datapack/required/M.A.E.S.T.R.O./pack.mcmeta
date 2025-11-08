@@ -1,0 +1,14 @@
+{
+	"pack": {
+		"pack_format": 81,
+		"description": "Customizations for the M.A.E.S.T.R.O. listening event!"
+	},
+	"filter": {
+        "block": [
+            {
+                "namespace": "^minecraft$",
+                "path": "^(advancement|recipe)/.*$"
+            }
+        ]
+    }
+}
