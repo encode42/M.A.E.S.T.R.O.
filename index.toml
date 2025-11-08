@@ -81,6 +81,10 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/conductor-1.1.0.jar"
+hash = "0d12ee13ac5a2151d9edf60bc07c4624af4fd24dcf11b5b643a4681c52d5139b"
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
 metafile = true
@@ -103,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/flashback.pw.toml"
+hash = "8a2b4a62ed50189fe015bb0f6907dbf016fd1f70e6f675a272f5a87f1c7c0692"
 metafile = true
 
 [[files]]
@@ -183,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "1a0481b1f8bd7f92cc6095794da36f0a7de9133b48a8cccb196ac35809b4dceb"
 metafile = true
 
 [[files]]
@@ -401,7 +415,3 @@ hash = "e0919c1bd9054b4597559dde4dd91a6601ed8e74a54e2d24740d277322c5ff50"
 [[files]]
 file = "servers.dat"
 hash = "a51aac2deebc1e774a206896ab5d521bcee1808626ae57f7aa065e937c0e952b"
-
-[[files]]
-file = "whitelist.json"
-hash = "b88f41dabee3b6ad04ac45936ab0e723a768b8cfd1135bfbe37d8291638eeead"
